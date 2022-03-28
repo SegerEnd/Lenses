@@ -1,0 +1,860 @@
+{
+    "lens_id": "",
+    "document_id": "gzc0HVGaBuMnjkdI-dU2",
+    "original_document_id": "f8wWihJ6m9hYXPJuBzHz",
+    "version": "29",
+    "lastChanged": "1648483600071",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "2",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "13",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Device Camera Texture"
+                    ],
+                    [
+                        "Textures",
+                        "Color Correction"
+                    ],
+                    [
+                        "Textures",
+                        "DancingScript"
+                    ],
+                    [
+                        "Textures",
+                        "Screen Texture"
+                    ],
+                    [
+                        "Textures",
+                        "brown"
+                    ],
+                    [
+                        "Textures",
+                        "brownishLut"
+                    ],
+                    [
+                        "scripts"
+                    ],
+                    [
+                        "scripts",
+                        "ManipulationHelper"
+                    ],
+                    [
+                        "scripts",
+                        "buttonScript"
+                    ],
+                    [
+                        "scripts",
+                        "capitalizeDayName"
+                    ],
+                    [
+                        "scripts",
+                        "startScript"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813"
+                ]
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "Esthetical",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "1"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Patio.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 2.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "local:C:\/Users\/Gebruiker\/Downloads\/Screenshot_20220121-164547_Snapchat.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 3.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1573067709614049:135508"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1642698091627055:278340"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1573068039830690:139740",
+                    "name": "Files\/File4.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1642696389426907:52159",
+                    "name": "Files\/File18.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1642697027815204:144232",
+                    "name": "Files\/File19.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1642698091627055:278340",
+                    "name": "Files\/File22",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1642698091920676:278446",
+                    "name": "Screen Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1642698206935277:297292",
+                    "name": "Files\/File26.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1642775231946063:1118911",
+                    "name": "Files\/File28.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1642775809399094:1192247",
+                    "name": "Files\/File29.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1642779557859890:1686520",
+                    "name": "Files\/File30.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1573067709594183:135374",
+                "1": "1573067857257806:137418",
+                "2": "1642696559513151:78880",
+                "3": "1642696786125314:109885",
+                "4": "1642698091261005:278230",
+                "5": "1642698091261364:278231",
+                "6": "1642775129322161:1073024",
+                "7": "1642776506868691:1281293",
+                "8": "1642777909543424:1465831",
+                "9": "1642778236343617:1512121"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "4",
+                    "v": "Files\/File4.js"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.ttf"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.js"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.lsmat"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.png"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.png"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.js"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.js"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.png"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.png"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "190",
+                        "v": "scripts\/ManipulationHelper.js"
+                    },
+                    {
+                        "k": "195",
+                        "v": "Textures\/DancingScript.ttf"
+                    },
+                    {
+                        "k": "196",
+                        "v": "scripts\/capitalizeDayName.js"
+                    },
+                    {
+                        "k": "203",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "205",
+                        "v": "Textures\/Color Correction.lsmat"
+                    },
+                    {
+                        "k": "206",
+                        "v": "scripts\/startScript.js"
+                    },
+                    {
+                        "k": "207",
+                        "v": "scripts\/buttonScript.js"
+                    },
+                    {
+                        "k": "208",
+                        "v": "scripts"
+                    },
+                    {
+                        "k": "209",
+                        "v": "Textures\/brown.png"
+                    },
+                    {
+                        "k": "210",
+                        "v": "Textures\/brownishLut.png"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "189",
+                        "v": "0f22bac28f4bb7f9303722acb5d035e0"
+                    },
+                    {
+                        "k": "190",
+                        "v": "758c247a10f3a0e7ec01c97afe28f9b1"
+                    },
+                    {
+                        "k": "191",
+                        "v": "5cf78bf95cf783c4c9a2a33a94030622"
+                    },
+                    {
+                        "k": "192",
+                        "v": "5cf78bf95cf783c4c9a2a33a94030622"
+                    },
+                    {
+                        "k": "193",
+                        "v": "21e34be24e1dcf90700db552fd3d17bf"
+                    },
+                    {
+                        "k": "194",
+                        "v": "27b9efe7ae34478c82311efb90011607"
+                    },
+                    {
+                        "k": "195",
+                        "v": "78132c6450403faefc3f440b2bb3b24a"
+                    },
+                    {
+                        "k": "196",
+                        "v": "8f1acf5cb4ecbe4655db7befc2c3ba8b"
+                    },
+                    {
+                        "k": "197",
+                        "v": "b00bff3197a6abf3d19a8ad9123fd8f9"
+                    },
+                    {
+                        "k": "199",
+                        "v": "a276acaed7d65e4c1b56181771677a77"
+                    },
+                    {
+                        "k": "200",
+                        "v": "b22121909525f04fbaacaf66fa9aae29"
+                    },
+                    {
+                        "k": "202",
+                        "v": "a276acaed7d65e4c1b56181771677a77"
+                    },
+                    {
+                        "k": "204",
+                        "v": "61baf9c658e7eb8eb62f2c33dba5af21"
+                    },
+                    {
+                        "k": "205",
+                        "v": "8f6bb22afcb653b7a4ba669be8977e24"
+                    },
+                    {
+                        "k": "206",
+                        "v": "33f61f2a10e2cb07cdac2e0d5ed19899"
+                    },
+                    {
+                        "k": "207",
+                        "v": "30c4d7afd93739842e0c417fdc49557a"
+                    },
+                    {
+                        "k": "209",
+                        "v": "c232481574f6d6de289725d25f1dad71"
+                    },
+                    {
+                        "k": "210",
+                        "v": "61baf9c658e7eb8eb62f2c33dba5af21"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2022-01-21T16:39:21",
+                        "name": "Public",
+                        "hash": "07d528a570ddae2468f249470ab15c18",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-10-30T10:32:04",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-01-21T16:30:42",
+                                "name": "scripts",
+                                "hash": "fcd4d8342cbab53fda2828a5bea4c208",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-21T16:28:18",
+                                        "name": "buttonScript.js",
+                                        "hash": "30c4d7afd93739842e0c417fdc49557a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-20T17:53:08",
+                                        "name": "capitalizeDayName.js",
+                                        "hash": "8f1acf5cb4ecbe4655db7befc2c3ba8b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-21T16:30:31",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-06T13:04:32",
+                                        "name": "ManipulationHelper.js",
+                                        "hash": "758c247a10f3a0e7ec01c97afe28f9b1",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-21T16:21:29",
+                                        "name": "startScript.js",
+                                        "hash": "33f61f2a10e2cb07cdac2e0d5ed19899",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-01-21T16:51:57",
+                                "name": "Textures",
+                                "hash": "82dab27a40ed3c37e29bc19b43fde6b6",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-21T16:39:03",
+                                        "name": "brown.png",
+                                        "hash": "c232481574f6d6de289725d25f1dad71",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-21T12:58:40",
+                                        "name": "brownishLut.png",
+                                        "hash": "61baf9c658e7eb8eb62f2c33dba5af21",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-21T16:51:57",
+                                        "name": "Color Correction.lsmat",
+                                        "hash": "515cdfe62da9117ddc3cfab77f220027",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-12-06T15:50:36",
+                                        "name": "DancingScript.ttf",
+                                        "hash": "78132c6450403faefc3f440b2bb3b24a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-20T18:01:52",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Physics Root World Settings",
+                        "type": "36",
+                        "subtype": "1",
+                        "resourceId": "16",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "8675309:9035768",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "203",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Screen Texture",
+                                "type": "1",
+                                "subtype": "16",
+                                "resourceId": "26",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1642698091920676:278446",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Color Correction",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "24",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1642698091627055:278340",
+                                "fileId": "22",
+                                "originalId": "23",
+                                "publicId": "205",
+                                "source": "",
+                                "additional": {
+                                    "isUnpackedInPublic": "false"
+                                }
+                            },
+                            {
+                                "name": "DancingScript",
+                                "type": "13",
+                                "subtype": "0",
+                                "resourceId": "21",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1642696389426907:52159",
+                                "fileId": "18",
+                                "originalId": "18446744073709551615",
+                                "publicId": "195",
+                                "source": "D:\/Games\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/Presets\/Fonts\/DancingScript-Regular.ttf",
+                                "additional": ""
+                            },
+                            {
+                                "name": "brown",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "30",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1642779557859890:1686520",
+                                "fileId": "30",
+                                "originalId": "31",
+                                "publicId": "209",
+                                "source": "C:\/Users\/Gebruiker\/Downloads\/brown.png",
+                                "additional": {
+                                    "originHash": "c232481574f6d6de289725d25f1dad71"
+                                }
+                            },
+                            {
+                                "name": "brownishLut",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "27",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1642698206935277:297292",
+                                "fileId": "26",
+                                "originalId": "27",
+                                "publicId": "210",
+                                "source": "C:\/Users\/Gebruiker\/Downloads\/brownishLut.png",
+                                "additional": {
+                                    "originHash": "61baf9c658e7eb8eb62f2c33dba5af21"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "208",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "buttonScript",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "29",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1642775809399094:1192247",
+                                "fileId": "29",
+                                "originalId": "18446744073709551615",
+                                "publicId": "207",
+                                "source": "C:\/Users\/Gebruiker\/AppData\/Local\/Temp\/Lens Studio-FHMUpl\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "startScript",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "28",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1642775231946063:1118911",
+                                "fileId": "28",
+                                "originalId": "18446744073709551615",
+                                "publicId": "206",
+                                "source": "C:\/Users\/Gebruiker\/AppData\/Local\/Temp\/Lens Studio-FHMUpl\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "capitalizeDayName",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "22",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1642697027815204:144232",
+                                "fileId": "19",
+                                "originalId": "18446744073709551615",
+                                "publicId": "196",
+                                "source": "C:\/Users\/Gebruiker\/AppData\/Local\/Temp\/Lens Studio-tCJltL\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "ManipulationHelper",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "11",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1573068039830690:139740",
+                                "fileId": "4",
+                                "originalId": "18446744073709551615",
+                                "publicId": "190",
+                                "source": "\/var\/folders\/x0\/b6gq1cy97wld348kvpqv_6th0000gp\/T\/Lens Studio-LtOZoY\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "new_compression_info": ""
+        },
+        "AssetLibController": {
+            "itemUidToID": ""
+        }
+    },
+    "templateName": "",
+    "templateUrl": ""
+}
