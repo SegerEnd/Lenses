@@ -1,5 +1,5 @@
 # My Snapchat Lenses
-Snapchat Lenses/Filters
+Snapchat Filters/Lenses
 
 ### Filters/Lenses:
 - VHS Filter, Old looking camera effect with a timer, today's date and time, Front/Back camera detection, Operating System detection and more :)
