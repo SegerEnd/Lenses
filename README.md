@@ -1,5 +1,7 @@
-# My Snapchat Lenses
-Snapchat Filters/Lenses
+# My Snapchat Lenses 
+Snapchat Filters/Lenses by: Seger Endendijk
+
+<img src="https://raw.githubusercontent.com/SegerEnd/Lenses/main/Images/LocationStreaks-Snapcode.png" alt="Snapcode VHS Cam" width="65"/> 
 
 ## Filters/Lenses:
 - VHS Filter, Old looking camera effect with a timer, today's date and time, Front/Back camera detection, Operating System detection and more :)
