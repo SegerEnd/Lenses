@@ -1,0 +1,640 @@
+{
+    "lens_id": "",
+    "document_id": "oRpIeOJYpNFU8YsZYsJy",
+    "original_document_id": "u3NKHD7urI0_SFmsagyl",
+    "version": "29",
+    "lastChanged": "1648484343281",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "10",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "13",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "TimerScript"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "1"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1642433651697170:95162",
+                    "name": "Files\/File55.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1642517723923184:1911631",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642517723964058:1911769",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642517751729076:1919703",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642519091087703:2131209",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642520162820800:2310135",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1642517723853912:1911559",
+                "1": "1642517723922670:1911629",
+                "2": "1642517723963884:1911768",
+                "3": "1642517751707523:1919443",
+                "4": "1642519091041743:2130941",
+                "5": "1642520162779088:2309867"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "9",
+                    "v": "Files\/File9.lsmat"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.js"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "982",
+                        "v": "TimerScript.js"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "968",
+                        "v": "7fa183869c42577b609e895b43ebbc04"
+                    },
+                    {
+                        "k": "970",
+                        "v": "f9e9e8fa27d1e1a54ddf800db6458359"
+                    },
+                    {
+                        "k": "971",
+                        "v": "d63f0eb9cb60bd43b306879146914901"
+                    },
+                    {
+                        "k": "972",
+                        "v": "021eaf23f46cf7d8852c3d5939de8b39"
+                    },
+                    {
+                        "k": "973",
+                        "v": "6e2d9151cfe8e67d156fcdc90a68a79d"
+                    },
+                    {
+                        "k": "974",
+                        "v": "bdb120f98026212bca8c1c785def24ad"
+                    },
+                    {
+                        "k": "975",
+                        "v": "d7a81ae245157b531560eb23a7950c08"
+                    },
+                    {
+                        "k": "976",
+                        "v": "01566a196a77fc9d11d41ecca91e2291"
+                    },
+                    {
+                        "k": "977",
+                        "v": "a39b110427a2eb33d4a26843e728a6da"
+                    },
+                    {
+                        "k": "978",
+                        "v": "72e157e29d3cb69b514d9bba9987d66b"
+                    },
+                    {
+                        "k": "979",
+                        "v": "331eea6f39c0ebfb6c56960e8d5b55b6"
+                    },
+                    {
+                        "k": "980",
+                        "v": "ba60774f64cd83de20bddb8026868352"
+                    },
+                    {
+                        "k": "981",
+                        "v": "1cae29d54a5187059a791013271cbe19"
+                    },
+                    {
+                        "k": "982",
+                        "v": "14e533a3b76d9febfc833bf49cb27b13"
+                    },
+                    {
+                        "k": "984",
+                        "v": "f9e9e8fa27d1e1a54ddf800db6458359"
+                    },
+                    {
+                        "k": "985",
+                        "v": "d63f0eb9cb60bd43b306879146914901"
+                    },
+                    {
+                        "k": "986",
+                        "v": "021eaf23f46cf7d8852c3d5939de8b39"
+                    },
+                    {
+                        "k": "987",
+                        "v": "6e2d9151cfe8e67d156fcdc90a68a79d"
+                    },
+                    {
+                        "k": "988",
+                        "v": "bdb120f98026212bca8c1c785def24ad"
+                    },
+                    {
+                        "k": "989",
+                        "v": "d7a81ae245157b531560eb23a7950c08"
+                    },
+                    {
+                        "k": "990",
+                        "v": "01566a196a77fc9d11d41ecca91e2291"
+                    },
+                    {
+                        "k": "991",
+                        "v": "a39b110427a2eb33d4a26843e728a6da"
+                    },
+                    {
+                        "k": "992",
+                        "v": "72e157e29d3cb69b514d9bba9987d66b"
+                    },
+                    {
+                        "k": "993",
+                        "v": "331eea6f39c0ebfb6c56960e8d5b55b6"
+                    },
+                    {
+                        "k": "994",
+                        "v": "ba60774f64cd83de20bddb8026868352"
+                    },
+                    {
+                        "k": "995",
+                        "v": "1cae29d54a5187059a791013271cbe19"
+                    },
+                    {
+                        "k": "998",
+                        "v": "35fb0dff7d39df6f66b4fb22ed5c58f5"
+                    },
+                    {
+                        "k": "999",
+                        "v": "b19abe9b85c2f8fb40c3d321dc26c913"
+                    },
+                    {
+                        "k": "1001",
+                        "v": "15ae5ece30a0baa8ccaace2fd4097a44"
+                    },
+                    {
+                        "k": "1002",
+                        "v": "0e13b17e071b821433fcfff3d52d3426"
+                    },
+                    {
+                        "k": "1003",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "1004",
+                        "v": "91c13f7497081d3638dd81f8c7b017fd"
+                    },
+                    {
+                        "k": "1006",
+                        "v": "4a2f2ea45a0bb1abe81b47d0afde4aae"
+                    },
+                    {
+                        "k": "1007",
+                        "v": "77532fbad0a55d2d7b261dae72261f3d"
+                    },
+                    {
+                        "k": "1008",
+                        "v": "4a2f2ea45a0bb1abe81b47d0afde4aae"
+                    },
+                    {
+                        "k": "1009",
+                        "v": "afa5e35b15395f30b0a0fb7d72de041a"
+                    },
+                    {
+                        "k": "1010",
+                        "v": "9bbbfcc0816d990234f59978fe352e74"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2022-01-18T17:16:54",
+                        "name": "Public",
+                        "hash": "f9687fb47ef3d39cf59927f5dd367ca9",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-12-06T15:50:54",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-01-18T17:07:43",
+                                "name": "TimerScript.js",
+                                "hash": "14e533a3b76d9febfc833bf49cb27b13",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": {
+                            "RenderTargetRole": "1"
+                        }
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Physics Root World Settings",
+                        "type": "36",
+                        "subtype": "1",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "8675309:9035768",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "TimerScript",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "26",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1642433651697170:95162",
+                        "fileId": "55",
+                        "originalId": "18446744073709551615",
+                        "publicId": "982",
+                        "source": "C:\/Users\/Gebruiker\/AppData\/Local\/Temp\/Lens Studio-aaSnDC\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "new_compression_info": ""
+        },
+        "AssetLibController": {
+            "itemUidToID": [
+                {
+                    "k": "1642507078393036:534593",
+                    "v": "7GRJ9agtlXc1Jn0XGVutU1"
+                },
+                {
+                    "k": "1642507079801310:534868",
+                    "v": "7GRJ9agtlXc1Jn0XGVutU1"
+                },
+                {
+                    "k": "1642507079843712:534882",
+                    "v": "7GRJ9agtlXc1Jn0XGVutU1"
+                },
+                {
+                    "k": "1642507079878719:534898",
+                    "v": "7GRJ9agtlXc1Jn0XGVutU1"
+                },
+                {
+                    "k": "1642507079944562:534914",
+                    "v": "7GRJ9agtlXc1Jn0XGVutU1"
+                },
+                {
+                    "k": "1642507079983913:534930",
+                    "v": "7GRJ9agtlXc1Jn0XGVutU1"
+                },
+                {
+                    "k": "1642507080117992:535024",
+                    "v": "7GRJ9agtlXc1Jn0XGVutU1"
+                },
+                {
+                    "k": "1642507080823632:535044",
+                    "v": "7GRJ9agtlXc1Jn0XGVutU1"
+                },
+                {
+                    "k": "1642507084630008:537251",
+                    "v": "7GRJ9agtlXc1Jn0XGVutU1"
+                },
+                {
+                    "k": "1642507084898722:537460",
+                    "v": "7GRJ9agtlXc1Jn0XGVutU1"
+                }
+            ]
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.10.0"
+}
