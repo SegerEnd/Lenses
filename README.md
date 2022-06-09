@@ -16,7 +16,7 @@ All my lenses:
 - Snap From Gallery, User can pick an image or video from your gallery/camera roll to send as a real snap.
 
 ## Images:
-Filter and logo design made by myself
+Filter and logo designs
 
 #### VHS Camera
 
